@@ -1,0 +1,12 @@
+html, body { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+}
+#map {
+    height: calc(100vh - 300px); 
+}
+#saveMyLocation {
+    
+    width: calc(50vh -  10px);
+}
